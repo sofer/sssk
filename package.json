@@ -1,0 +1,19 @@
+{
+  "name": "sssk",
+  "version": "1.0.0",
+  "description": "A super simple starter kit for Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofer/sssk.git"
+  },
+  "author": "sofer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofer/sssk/issues"
+  },
+  "homepage": "https://github.com/sofer/sssk#readme"
+}
